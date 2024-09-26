@@ -137,6 +137,12 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+# Ignore the Data folder
+Data/
+
+# Ignore the Model folder
+Model/
+
 # mkdocs documentation
 /site
 
